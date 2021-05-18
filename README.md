@@ -14,7 +14,7 @@ Some modded recipes do not use boss summon items to make the treasure bag.
 This mod includes modded treasure bag recipes for the following mods:
 - AlchemistNPC
 - Ancients Awakened
-- Azerccadmium
+- Azercadmium
 - Calamity
 - Elements Awoken
 - Enigma
