@@ -11,7 +11,7 @@ Craft an empty treasure bag with 10 silk at a loom.
 Craft a boss treasure bag with boss loot and the respective boss summon item (some other recipes require different items as well besides boss loot only).
 Some modded recipes do not use boss summon items to make the treasure bag.
 
-This mod includes modded treasure bag recipes for the following mods:
+As of version 0.14, This mod includes modded treasure bag recipes for the following mods:
 - AlchemistNPC
 - Ancients Awakened
 - Azercadmium
