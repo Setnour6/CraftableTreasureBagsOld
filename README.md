@@ -1,4 +1,4 @@
-# CraftableTreasureBags
+# Craftable Treasure Bags (1.3)
 
 A Terraria modification that allows you to craft Treasure Bags in NORMAL MODE! This makes the game easier.
 
