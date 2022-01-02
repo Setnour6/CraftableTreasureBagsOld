@@ -30,9 +30,6 @@ As of version 0.14, This mod includes modded treasure bag recipes for the follow
 
 *Updates will be __less frequent__ due to real life complications.*
 
-Q: "Why are there multiple treasure bag recipes popping up?"
-A: I know this is an indirect answer, but if I were to use recipe groups, it can possibly crash the game. I've tested it multiple times and the game crashed a lot. I will not be using recipe groups, sadly.
-
 If you have any questions or concerns, feel free to message me on YouTube or Email. Social platforms I use are listed below.
 
 ~~~~~~
