@@ -40,3 +40,5 @@ Spotify: Setnour6
 Email: set.nour6@gmail.com
 
 ~~~~~~
+
+Just know that I'm in grade 12, so I need to finish school. I just want to make some necessary changes, and I find everything necessary. I hope you understand.
